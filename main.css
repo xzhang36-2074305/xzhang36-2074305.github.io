@@ -18,7 +18,20 @@
  *  17. Responsive
  *	18. Gallery
  */
+
+
+
+
+#one {
+	background-color: yellow;
+}
+ 
+
+
 /* 01. General */
+
+
+
 html,
 body {
 	width: 100%;
